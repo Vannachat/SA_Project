@@ -9,6 +9,12 @@ by connecting customers, partner shops, animal hospitals, and foundations.
 
 ---
 
+## 📄 Project Documentation
+> **Note:** If you encounter any issues viewing the PDF report directly on GitHub, you can access the full report including all diagrams and prototypes via Google Drive:
+> 📂 **[View Project Folder on Google Drive](https://drive.google.com/drive/folders/1cuNGi7iuUUlgIW6yBsOd9UaeGl3MeQ1P?usp=sharing)**
+
+---
+
 ## System Overview
 
 Designed a new information system with the following core modules:
@@ -21,10 +27,11 @@ Designed a new information system with the following core modules:
 
 ## Deliverables
 
-- Data Flow Diagram (DFD)
-- ER Diagram & Database Schema
-- System prototype (Figma)
-- Full SA&D documentation report
+All system designs and documentation are consolidated into a single comprehensive report:
+
+| Deliverable | Details Included in the Report | Link to Document |
+|-------------|--------------------------------|------------------|
+| **Full SA&D Report** | Contains Data Flow Diagrams (DFDs), ER Diagrams, Database Schema, and Figma UI Prototype designs. | 📂 **[Download Full PDF](https://drive.google.com/drive/folders/1cuNGi7iuUUlgIW6yBsOd9UaeGl3MeQ1P?usp=sharing)** |
 
 ## Tools Used
 
